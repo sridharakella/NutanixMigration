@@ -18,11 +18,32 @@ Login to Nutanix portal. In Downloads section;
 You can build on you image as well , on ubuntu 22 , Let's if you wanted to support for GPU , we need to build an image on ubuntu22.
 Upload the below images to the Prism Central
 <img width="744" alt="Screen Shot 2025-06-22 at 1 39 51 PM" src="https://github.com/user-attachments/assets/63ec247b-df06-45f1-8514-d270cfbd20f8" />
-Uploading screen shot to the prism cental.
+Uploading screen shot to the prism central.
+
+
 <img width="780" alt="Screen Shot 2025-06-22 at 1 46 46 PM" src="https://github.com/user-attachments/assets/0d5ff6ef-312b-4a51-b52a-27fd7f31d80b" />
 
 We have Jump Box and harbor registry 
 <img width="769" alt="Screen Shot 2025-06-22 at 1 50 28 PM" src="https://github.com/user-attachments/assets/33ec11e6-739b-4026-83db-377f0739c1c6" />
+
+Once the VM's are ready
+
+nkp create cluster ( gives a view)
+
+<img width="485" alt="Screen Shot 2025-06-22 at 1 53 23 PM" src="https://github.com/user-attachments/assets/68d60c8d-1c6d-4a7b-a545-391e5d030abf" />
+
+Before creating a NKP cluster, we need to create a Project. I created a NKP Project.
+Under the Ham burger Menu, select "APP and Market Place"
+<img width="777" alt="Screen Shot 2025-06-22 at 1 59 59 PM" src="https://github.com/user-attachments/assets/c0ac294f-9646-4da2-8787-9822a1b5a1d7" />
+
+Then give the following the details( Project details should from the Project name ( NKP) 
+
+<img width="1365" alt="Screen Shot 2025-06-22 at 1 57 30 PM" src="https://github.com/user-attachments/assets/05b38ff5-228b-4a4a-ac7b-a94d75b5d336" />
+
+
+
+
+
 
 
 
