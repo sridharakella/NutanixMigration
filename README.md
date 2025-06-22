@@ -44,6 +44,12 @@ Create a user role, access , and make sure  we match VLAN details as part of NKP
 
 <img width="1594" alt="Screen Shot 2025-06-22 at 2 05 11 PM" src="https://github.com/user-attachments/assets/a0019e4f-2189-4487-a148-f5d5fd92eacb" />
 
+We can Use Traefik for Ingress Controller, in this screen shot, I am not giving any details for Ingress controller
+For Registry you can use harbor registry details, I have downloaded the authentication cert in my local and pointing the cert location
+For SSH , you can use Konvoy, but using the SSH key that I have created using ssh-keygen
+<img width="1629" alt="Screen Shot 2025-06-22 at 2 13 40 PM" src="https://github.com/user-attachments/assets/429e5ede-5820-4f67-b940-8dffb0b6ef7f" />
+
+
 
 
 
