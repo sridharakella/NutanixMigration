@@ -16,7 +16,15 @@ Login to Nutanix portal. In Downloads section;
 <img width="755" alt="Screen Shot 2025-06-22 at 1 35 52 PM" src="https://github.com/user-attachments/assets/bcb3d578-c521-4900-9ea0-74525591bc8a" />
 
 You can build on you image as well , on ubuntu 22 , Let's if you wanted to support for GPU , we need to build an image on ubuntu22.
+Upload the below images to the Prism Central
 <img width="744" alt="Screen Shot 2025-06-22 at 1 39 51 PM" src="https://github.com/user-attachments/assets/63ec247b-df06-45f1-8514-d270cfbd20f8" />
+Uploading screen shot to the prism cental.
+<img width="780" alt="Screen Shot 2025-06-22 at 1 46 46 PM" src="https://github.com/user-attachments/assets/0d5ff6ef-312b-4a51-b52a-27fd7f31d80b" />
+
+We have Jump Box and harbor registry 
+<img width="769" alt="Screen Shot 2025-06-22 at 1 50 28 PM" src="https://github.com/user-attachments/assets/33ec11e6-739b-4026-83db-377f0739c1c6" />
+
+
 
 
 
