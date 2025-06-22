@@ -49,6 +49,15 @@ For Registry you can use harbor registry details, I have downloaded the authenti
 For SSH , you can use Konvoy, but using the SSH key that I have created using ssh-keygen
 <img width="1629" alt="Screen Shot 2025-06-22 at 2 13 40 PM" src="https://github.com/user-attachments/assets/429e5ede-5820-4f67-b940-8dffb0b6ef7f" />
 
+<img width="1663" alt="Screen Shot 2025-06-22 at 2 19 26 PM" src="https://github.com/user-attachments/assets/41991f0a-9919-4494-9938-28721e1080cb" />
+
+Run the following to get the dashboard URL, it going to expose the credentials
+
+<img width="552" alt="Screen Shot 2025-06-22 at 2 25 34 PM" src="https://github.com/user-attachments/assets/6018f0bf-626d-4754-8204-68f5dd111db1" />
+
+
+
+
 
 
 
