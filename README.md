@@ -55,6 +55,11 @@ Run the following to get the dashboard URL, it going to expose the credentials
 
 <img width="552" alt="Screen Shot 2025-06-22 at 2 25 34 PM" src="https://github.com/user-attachments/assets/6018f0bf-626d-4754-8204-68f5dd111db1" />
 
+If you have Licensing NCI Pro, NCI ultimate, You can spin the clusters
+
+<img width="1663" alt="Screen Shot 2025-06-22 at 2 31 11 PM" src="https://github.com/user-attachments/assets/d2c6ea39-0fdd-4c86-82e9-7df0d33be5f8" />
+
+
 
 
 
