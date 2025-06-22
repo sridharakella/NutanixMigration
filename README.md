@@ -15,6 +15,9 @@ Login to Nutanix portal. In Downloads section;
 <img width="746" alt="Screen Shot 2025-06-22 at 1 35 40 PM" src="https://github.com/user-attachments/assets/57101e1d-8341-43d1-b67c-749941a3ad07" />
 <img width="755" alt="Screen Shot 2025-06-22 at 1 35 52 PM" src="https://github.com/user-attachments/assets/bcb3d578-c521-4900-9ea0-74525591bc8a" />
 
+You can build on you image as well , on ubuntu 22 , Let's if you wanted to support for GPU , we need to build an image on ubuntu22.
+<img width="744" alt="Screen Shot 2025-06-22 at 1 39 51 PM" src="https://github.com/user-attachments/assets/63ec247b-df06-45f1-8514-d270cfbd20f8" />
+
 
 
 
