@@ -59,6 +59,20 @@ If you have Licensing NCI Pro, NCI ultimate, You can spin the clusters
 
 <img width="1663" alt="Screen Shot 2025-06-22 at 2 31 11 PM" src="https://github.com/user-attachments/assets/d2c6ea39-0fdd-4c86-82e9-7df0d33be5f8" />
 
+Global View : Let say you take Workspace , you can add cluster to the workspace. You can assign RBAC policy to the workspace.
+Project , down to namesoace
+
+project associated with application. so for exampoke, I want workspace with group of clusters,
+
+
+
+<img width="1026" alt="Screen Shot 2025-06-22 at 2 45 33 PM" src="https://github.com/user-attachments/assets/f0c7d0ad-d93f-4834-9e07-dff746eb3a43" />
+
+You Can use OIDC provider, LDAP provider , default is DAX provider for Nutanix
+
+<img width="1265" alt="Screen Shot 2025-06-22 at 2 53 37 PM" src="https://github.com/user-attachments/assets/dd08c1af-d595-4d9c-a0e9-24165a4e1634" />
+
+
 
 
 
