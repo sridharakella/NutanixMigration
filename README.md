@@ -73,6 +73,14 @@ You Can use OIDC provider, LDAP provider , default is DAX provider for Nutanix
 <img width="1265" alt="Screen Shot 2025-06-22 at 2 53 37 PM" src="https://github.com/user-attachments/assets/dd08c1af-d595-4d9c-a0e9-24165a4e1634" />
 
 
+You can apply the ultimate licsense , we have tools installed as part of it
+
+<img width="1668" alt="Screen Shot 2025-06-22 at 3 27 03 PM" src="https://github.com/user-attachments/assets/e4334a69-d7e5-486a-8842-e990f25bb848" />
+
+<img width="438" alt="Screen Shot 2025-06-22 at 3 26 40 PM" src="https://github.com/user-attachments/assets/a06cab76-829d-4114-978a-fcfa086687c6" />
+
+
+
 
 
 
