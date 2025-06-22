@@ -40,6 +40,11 @@ Then give the following the details( Project details should from the Project nam
 
 <img width="1365" alt="Screen Shot 2025-06-22 at 1 57 30 PM" src="https://github.com/user-attachments/assets/05b38ff5-228b-4a4a-ac7b-a94d75b5d336" />
 
+Create a user role, access , and make sure  we match VLAN details as part of NKP prject creation
+
+<img width="1594" alt="Screen Shot 2025-06-22 at 2 05 11 PM" src="https://github.com/user-attachments/assets/a0019e4f-2189-4487-a148-f5d5fd92eacb" />
+
+
 
 
 
